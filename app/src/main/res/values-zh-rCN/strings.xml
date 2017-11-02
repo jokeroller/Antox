@@ -14,7 +14,7 @@
     <string name="login_login">登录</string>
     <string name="login_account_hint">配置名称</string>
     <string name="login_create_account_text">创建Tox账户配置</string>
-    <string name="login_bad_login">Profile name was not recognised</string>
+    <string name="login_bad_login">配置名未找到</string>
 
     <!-- Create Account Activity -->
     <string name="create_name_hint">配置名称</string>
@@ -124,7 +124,7 @@
     <string name="qr_default_title">安装二维码扫描程序么？</string>
     <string name="qr_default_message">此应用需要二维码扫描器应用。您需要安装么？</string>
     <string name="qr_button_yes">是</string>
-    <string name="qr_button_no">不</string>
+    <string name="qr_button_no">否</string>
 
     <!-- nav bar -->
     <string name="n_settings">设置</string>
@@ -141,7 +141,7 @@
     <string name="license2">源码请参见\nhttps://github.com/Antox/Antox</string>
     <string name="ver">版本</string>
     <string name="about">关于</string>
-    <string name="about_antox_1">With the rise of government monitoring programs, Tox provides an easy to use application that allows you to connect with friends and family without anyone else listening in.</string>
+    <string name="about_antox_1">随着政府对网上应用控制的加剧, Tox 让你可以轻松地利用联网应用与朋友联系而不必担心被窃听.</string>
     <string name="about_antox_2">目前可用的：</string>
     <string name="about_antox_3">-基本消息（不包括群聊）</string>
     <string name="about_antox_4">-通知</string>
@@ -182,6 +182,6 @@
     <string name="pref_udp">启用UDP</string>
     <string name="share_with">分享</string>
     <string name="main_no_internet">无因特网连接</string>
-    <string name="addfriend_friend_message">在好友请求中加句话</string>
+    <string name="addfriend_friend_message">认证信息</string>
 
 </resources>
